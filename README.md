@@ -1,10 +1,10 @@
 # Next.js Starter Template
 
-A modern, beginner-friendly starter template for building full-stack web applications with Next.js, TypeScript, Tailwind CSS, and Supabase.
+A modern, beginner-friendly starter template for building full-stack web applications with Next.js, TypeScript, Tailwind CSS, and Supabase. Created with the help of Claude.ai and Cursor.
 
 ## What is This?
 
-This starter template provides a solid foundation for developers who want to build modern web applications using industry-standard tools. It's specifically designed for beginners who want to learn full-stack development with a proven tech stack, while also being robust enough for experienced developers to use as a quick starting point. I built this with the help of Claude.ai and Cursor.
+This starter template provides a solid foundation for developers who want to build modern web applications using industry-standard tools. It's specifically designed for beginners who want to learn full-stack development with a proven tech stack, while also being robust enough for experienced developers to use as a quick starting point. 
 
 **Perfect for building:**
 - SaaS applications
